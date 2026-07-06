@@ -1,5 +1,5 @@
 # 🧶 Comfort Crochet Research
-
+**By Nisha Pandya**
 ## About
 This project investigates whether making and receiving handmade crocheted comfort items can help reduce stress and anxiety while improving emotional well-being in teenagers.
 
